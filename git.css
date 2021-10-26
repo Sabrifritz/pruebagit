@@ -6,7 +6,11 @@ h1{
 }
 p{
     color: grey;
+    background-color: beige;
 }
 h5{
     color: whitesmoke;
+}
+h2{
+    color: beige;
 }
